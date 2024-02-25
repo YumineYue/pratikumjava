@@ -7,7 +7,7 @@ public class LibrarySystem {
     static Student[] students = {
         new Student("202210370311203"),
         new Student("202310370311122"),
-        // Add more students here
+        
     };
     static Admin admin = new Admin("admin", "admin");
 
